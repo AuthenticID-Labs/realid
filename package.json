@@ -1,8 +1,12 @@
 {
-  "name": "realid-registrar",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "@authenticid-labs/realid-registrar",
+  "version": "0.0.1",
+  "description": "Real ID solidity contracts",
+  "files": [
+    "/contracts/**/*.sol",
+    "/artifacts/contracts/**/*.json"
+    
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
