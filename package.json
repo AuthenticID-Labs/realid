@@ -1,12 +1,16 @@
 {
   "name": "@authenticid-labs/realid-registrar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Real ID solidity contracts",
   "files": [
     "/contracts/**/*.sol",
     "/artifacts/contracts/**/*.json"
     
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AuthenticID-Labs/realid"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
